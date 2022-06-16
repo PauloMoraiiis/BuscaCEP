@@ -5,4 +5,4 @@
 
 ## Projeto buscador de CEP ultilizando Api, HTML, CSS e JavaScript.
 Este código foi feito apenas para demonstração de habilidades e aprendizado, ultilizando diversas tags HTML e CSS para criar o layout,  JavaScript para fazer a lógica.
-Foi ultilizado também Api via cep para p preenchimento dos endereços (https://viacep.com.br/).
+Foi ultilizado também Api via cep para o preenchimento dos endereços (https://viacep.com.br/).
